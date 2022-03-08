@@ -1,6 +1,6 @@
 # Travel Planner
 
-This project has been built with an API using Node.js, Express.js, MySQL, and Sequelize.
+This project has been built with an API using Node.js, Express.js, MySQL, and Sequelize. Was already supplied seeds data to use in this project to give it data to test the functionality of the APIs and models created.
 
 ## User Stories
 
